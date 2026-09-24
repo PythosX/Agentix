@@ -1,8 +1,8 @@
-# MindMesh — Hackathon Ready MVP
+# Agentix — Hackathon Ready MVP
 
 **Many AI minds. One intelligent workflow.**
 
-MindMesh is a multi-agent AI workspace built around three controlled workflows:
+Agentix is a multi-agent AI workspace built around three controlled workflows:
 
 1. **AI Arena** — sends the same question to multiple independently configured AI models, compares their outputs, detects conflicts, and asks a synthesis model to produce a structured conclusion.
 2. **AI Delegator** — analyzes a complex requirement, breaks it into specialist tasks, asks the user for permission for each task, and executes only approved tasks with separate model configurations.
@@ -169,7 +169,7 @@ If your provider gives a base URL that already includes `/chat/completions`, set
 ## Folder structure
 
 ```text
-MindMesh-Hackathon/
+Agentix-Hackathon/
 ├── backend/
 │   ├── main.py
 │   └── requirements.txt
